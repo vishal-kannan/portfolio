@@ -229,7 +229,7 @@ span.tooltip::after{
     opacity: 1;
     transition: 1s;
 }
-.contact:hover span.tooltip{
+.contact1:hover span.tooltip{
     visibility: visible;
     opacity: 1;
     transition: 1s;
